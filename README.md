@@ -101,7 +101,8 @@ We aim to create an immersive and secure e-commerce experience using modern web 
           5. Submit a pull request.
 
 **License**
-    This project is licensed under the MIT License - see the LICENSE file for details.  
+
+    This project is licensed under the MIT License - https://github.com/gunal-01/ecommerce-platform/blob/340887cec3c83acb4338eb6552ba109e761f169d/LICENSE see the file for details.  
 
 Contact
 If you have any questions or suggestions, feel free to reach out to the project maintainer:
